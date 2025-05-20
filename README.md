@@ -4,7 +4,8 @@ A frontend recreation of the Sundown Studios website using HTML, CSS, and JavaSc
 
 ## 📸 Preview
 
-![Sundown Studio Clone Screenshot](sundown.jpeg)
+![Sundown Studio Clone Screenshot](previews/sundown1.jpeg) ![Sundown Studio Clone Screenshot](previews/sundown2.png)
+![Sundown Studio Clone Screenshot](previews/sundown3.png) ![Sundown Studio Clone Screenshot](previews/sundown4.png)
 
 ## 🚀 Features
 
