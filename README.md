@@ -7,19 +7,19 @@ A frontend recreation of the Sundown Studios website using HTML, CSS, and JavaSc
 ![Sundown Studio Clone Screenshot](previews/sundown1.jpeg) ![Sundown Studio Clone Screenshot](previews/sundown2.png)
 ![Sundown Studio Clone Screenshot](previews/sundown3.png) ![Sundown Studio Clone Screenshot](previews/sundown4.png)
 
-## 🚀 Features
+## Features
 
 - Responsive design
 - Smooth animations
 - Interactive UI elements
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript (ES6)
 
-## 📦 Installation
+## Installation
 
 1. Clone the repository:
 
@@ -33,10 +33,6 @@ A frontend recreation of the Sundown Studios website using HTML, CSS, and JavaSc
 cd Sundown-Studio-Clone
 ```
 3. Open index.html in your preferred web browser.
-
-
-📄 License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 🙌 Acknowledgements
 Sundown Studios for the original design inspiration.
